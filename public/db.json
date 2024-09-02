@@ -1,0 +1,431 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "date": {
+          "day": 15,
+          "month": "Feb"
+        },
+        "location": {
+          "city": "Tokyo",
+          "country": "Japan",
+          "address": "Aman Tokyo"
+        },
+        "priceRange": "60-250$"
+      },
+      {
+        "id": 2,
+        "date": {
+          "day": 22,
+          "month": "Mar"
+        },
+        "location": {
+          "city": "New York",
+          "country": "USA",
+          "address": "The Plaza Hotel"
+        },
+        "priceRange": "150-500$"
+      },
+      {
+        "id": 3,
+        "date": {
+          "day": 7,
+          "month": "Apr"
+        },
+        "location": {
+          "city": "Paris",
+          "country": "France",
+          "address": "Ritz Paris"
+        },
+        "priceRange": "200-600€"
+      },
+      {
+        "id": 4,
+        "date": {
+          "day": 10,
+          "month": "May"
+        },
+        "location": {
+          "city": "Dubai",
+          "country": "UAE",
+          "address": "Burj Al Arab"
+        },
+        "priceRange": "300-1000$"
+      },
+      {
+        "id": 5,
+        "date": {
+          "day": 18,
+          "month": "Jun"
+        },
+        "location": {
+          "city": "London",
+          "country": "UK",
+          "address": "The Savoy"
+        },
+        "priceRange": "150-400£"
+      },
+      {
+        "id": 6,
+        "date": {
+          "day": 25,
+          "month": "Jul"
+        },
+        "location": {
+          "city": "Rome",
+          "country": "Italy",
+          "address": "Hotel de Russie"
+        },
+        "priceRange": "180-450€"
+      },
+      {
+        "id": 7,
+        "date": {
+          "day": 30,
+          "month": "Aug"
+        },
+        "location": {
+          "city": "Sydney",
+          "country": "Australia",
+          "address": "Park Hyatt Sydney"
+        },
+        "priceRange": "200-550$"
+      }
+    ], 
+    "albums":[
+       {
+        "id" : 1,
+        "img":"/assets/albums/cover/cover-1.png", 
+        "name":"albums 1", 
+        "tracks":[
+          {
+             "name": "Sunset Boulevard", 
+             "src":"/assets/freedom.mp3"
+          },
+          {
+            "name": "Ocean Breeze", 
+            "src":"/assets/freedom.mp3"
+         },
+         {
+          "name": "Midnight Drive", 
+          "src":"/assets/freedom.mp3"
+       },
+       {
+        "name": "Mountain Echoes", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Starlight Serenade", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Golden Horizon", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Urban Pulse", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Desert Mirage", 
+        "src":"/assets/freedom.mp3"
+     }
+     
+
+
+        ]
+       },
+       
+       {
+        "id" : 2,
+        "img":"/assets/albums/cover/cover-2.png", 
+        "name":"albums 2", 
+        "tracks":[
+          {
+             "name": "Sunset Boulevard", 
+             "src":"/assets/freedom.mp3"
+          },
+          {
+            "name": "Ocean Breeze", 
+            "src":"/assets/freedom.mp3"
+         },
+         {
+          "name": "Midnight Drive", 
+          "src":"/assets/freedom.mp3"
+       },
+       {
+        "name": "Mountain Echoes", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Starlight Serenade", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Golden Horizon", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Urban Pulse", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Desert Mirage", 
+        "src":"/assets/freedom.mp3"
+     }
+     
+
+
+        ]
+       },
+       {
+        "id" : 3,
+        "img":"/assets/albums/cover/cover-3.png", 
+        "name":"albums 3", 
+        "tracks":[
+          {
+             "name": "Sunset Boulevard", 
+             "src":"/assets/freedom.mp3"
+          },
+          {
+            "name": "Ocean Breeze", 
+            "src":"/assets/freedom.mp3"
+         },
+         {
+          "name": "Midnight Drive", 
+          "src":"/assets/freedom.mp3"
+       },
+       {
+        "name": "Mountain Echoes", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Starlight Serenade", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Golden Horizon", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Urban Pulse", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Desert Mirage", 
+        "src":"/assets/freedom.mp3"
+     }
+     
+
+
+        ]
+       },
+       {
+        "id" : 4,
+        "img":"/assets/albums/cover/cover-4.png", 
+        "name":"albums 4", 
+        "tracks":[
+          {
+             "name": "Sunset Boulevard", 
+             "src":"/assets/freedom.mp3"
+          },
+          {
+            "name": "Ocean Breeze", 
+            "src":"/assets/freedom.mp3"
+         },
+         {
+          "name": "Midnight Drive", 
+          "src":"/assets/freedom.mp3"
+       },
+       {
+        "name": "Mountain Echoes", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Starlight Serenade", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Golden Horizon", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Urban Pulse", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Desert Mirage", 
+        "src":"/assets/freedom.mp3"
+     }
+     
+
+
+        ]
+       },
+       {
+        "id" : 5,
+        "img":"/assets/albums/cover/cover-5.png", 
+        "name":"albums 5", 
+        "tracks":[
+          {
+             "name": "Sunset Boulevard", 
+             "src":"/assets/freedom.mp3"
+          },
+          {
+            "name": "Ocean Breeze", 
+            "src":"/assets/freedom.mp3"
+         },
+         {
+          "name": "Midnight Drive", 
+          "src":"/assets/freedom.mp3"
+       },
+       {
+        "name": "Mountain Echoes", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Starlight Serenade", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Golden Horizon", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Urban Pulse", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Desert Mirage", 
+        "src":"/assets/freedom.mp3"
+     }
+     
+
+
+        ]
+       },
+       {
+        "id" : 6,
+        "img":"/assets/albums/cover/cover-6.png", 
+        "name":"albums 6", 
+        "tracks":[
+          {
+             "name": "Sunset Boulevard", 
+             "src":"/assets/freedom.mp3"
+          },
+          {
+            "name": "Ocean Breeze", 
+            "src":"/assets/freedom.mp3"
+         },
+         {
+          "name": "Midnight Drive", 
+          "src":"/assets/freedom.mp3"
+       },
+       {
+        "name": "Mountain Echoes", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Starlight Serenade", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Golden Horizon", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Urban Pulse", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Desert Mirage", 
+        "src":"/assets/freedom.mp3"
+     }
+     
+
+
+        ]
+       },
+       {
+        "id" : 7,
+        "img":"/assets/albums/cover/cover-7.png", 
+        "name":"albums 7", 
+        "tracks":[
+          {
+             "name": "Sunset Boulevard", 
+             "src":"/assets/freedom.mp3"
+          },
+          {
+            "name": "Ocean Breeze", 
+            "src":"/assets/freedom.mp3"
+         },
+         {
+          "name": "Midnight Drive", 
+          "src":"/assets/freedom.mp3"
+       },
+       {
+        "name": "Mountain Echoes", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Starlight Serenade", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Golden Horizon", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+       "name": "Urban Pulse", 
+        "src":"/assets/freedom.mp3"
+     },
+       {
+        "name": "Desert Mirage", 
+        "src":"/assets/freedom.mp3"
+     }
+     
+
+
+        ]
+       }
+    ],
+    "posts": [
+      {
+        "id": 1,
+        "title": "The Evolution of Jazz",
+        "description": "A deep dive into the history and evolution of jazz music. lorem hello  deep dive history evolution music",
+        "date": "2024-08-05"
+      }, 
+      { 
+        "id": 2,
+        "title": "Top 10 Guitar Riffs of All Time",
+        "description": "A countdown of the greatest guitar riffs that have shaped rock music. lorem hello  deep dive history evolution music",
+        "date": "2024-08-12"
+      },
+      {
+        "id": 3,
+        "title": "The Rise of Electronic Dance Music",
+        "description": "How EDM took the world by storm and its impact on modern music. lorem hello  deep dive history evolution music",
+        "date": "2024-08-18"
+      },
+      {
+        "id": 4,
+        "title": "Classical Music in the Modern World",
+        "description": "Exploring the relevance of classical music in today's digital era.",
+        "date": "2024-08-25"
+      },
+      {
+        "id": 5,
+        "title": "The Art of Songwriting",
+        "description": "Tips and techniques for writing songs that connect with listeners.",
+        "date": "2024-09-01"
+      },
+      {
+        "id": 6,
+        "title": "The Influence of Hip-Hop Culture",
+        "description": "Examining how hip-hop has influenced fashion, language, and global culture.",
+        "date": "2024-09-05"
+      }
+    ]
+  }
+  
